@@ -1,3 +1,4 @@
+
 # Scrcpy-Scripts
 A collection of some basic scripts that I use to connect and listen to music on my PC from my android phone
 
@@ -6,6 +7,9 @@ A collection of some basic scripts that I use to connect and listen to music on 
 
 ### Prerequisites
 Install `adb` using your distro's package manager and then download [scrcpy](https://github.com/Genymobile/scrcpy.git) either from your package manager or build it from source
+
+[Termux](https://github.com/termux/termux-app.git) can be installed to check for ip address is optional
+[Dunst](https://github.com/dunst-project/dunst.git) can be installed for notifications but is optional
 
 Also your phone and your PC should be connected to same network
 
