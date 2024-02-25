@@ -30,5 +30,5 @@ The [phone_connect.sh](phone_connect.sh) connects the device via TCP/IP. For mor
 The [phone_connect_usb.sh](phone_connect_usb.sh) connects the device via USB. For this you need to have USB Debugging enabled in the developer settings.
 The [phone_disconnect.sh](phone_disconnect.sh) disconnects the the connected devices.
 
-## Lisence
+## License
 [Unlisenced](https://choosealicense.com/licenses/unlicense/)
