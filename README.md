@@ -14,7 +14,7 @@ Install `adb` using your distro's package manager and then download [scrcpy](htt
 Also your phone and your PC should be connected to same network
 
 ## Installation
-Either clone the repository or download the scripts individually from the raw file
+Either clone the repository or download the scripts individually using the the raw file
 
 ```git clone https://github.com/Amrit-codes/Scrcpy-Scripts.git```
 
